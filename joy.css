@@ -1,0 +1,54 @@
+.facebook{
+    background-color: blueviolet;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.facebook:hover{
+    background-color: rgb(7, 150, 245);
+    color: yellow;
+    font-weight: bold;
+    font-size: 50px;
+}
+.Location{
+    background-color: rgb(17, 230, 81);
+    font-size: 30px;
+    color: rgb(226, 17, 181);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Location:hover{
+    background-color: rgb(8, 156, 255);
+    color: rgb(5, 255, 88);
+    font-weight: bold;
+    font-size: 50px;
+}
+.page{
+    background-color: rgb(245, 16, 16);
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.page:hover{
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    font-size: 50px;
+}
+.ss{
+    width: 400px;
+     margin: auto;
+     border-radius: 20%;
+}
+.page2{
+    width: 400px;
+     margin: auto;
+     border-radius: 20%;
+}
+}
+}
